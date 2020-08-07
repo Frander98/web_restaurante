@@ -1,0 +1,75 @@
+body {
+	font-family: 'Quicksand', sans-serif;
+	background: #D8D61F;
+}
+nav {
+	text-align: center;
+	box-sizing: border-box;
+	height: 60px;
+	border-radius: 15px;
+	background-color: #92D81F;  
+}
+
+.item {
+	font-size: 35px;
+	list-style: none;
+	display: inline;
+	text-decoration: none;
+	width: 50px;
+	height: 50px;
+	border : 1px solid black;
+	margin: 10px;
+}
+header .logoprincipal {
+	width: 180px;
+	height: 155px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+h1 {
+	text-align: center;
+	font-size: 90px;
+}
+h2 {
+	text-align: center;
+}
+
+p {
+	font-size: 22px;
+}
+
+.fotosgal {
+	width: 440px;
+	height: 400px;
+}
+
+.menu {
+	width: 440px;
+	height: 400px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+fieldset {
+	font-size: 30px;
+	text-align: center;
+	background-color: #92D81F;
+	border-radius: 15px;
+
+}
+form ul {
+	text-decoration: none;
+	list-style: none;
+}
+.formulariodevisita {
+	text-align: center;
+}
+footer p {
+	text-align: center;
+}
+
+footer {
+	background: #92D81F;
+	border-radius: 15px;
+}
